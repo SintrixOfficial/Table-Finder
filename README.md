@@ -10,3 +10,8 @@ Table Finder scans your Steam library and shows only the games supported by http
 - **Custom Steam Directories**: Set your own Steam directories in the settings.
 - **Update Checks**: Keep your app up to date automatically.
 
+![alt text](https://camohax.com/Images/Sintrix/games.png)
+
+![alt text](https://camohax.com/Images/Sintrix/details.png)
+
+![alt text](https://camohax.com/Images/Sintrix/settings.png)

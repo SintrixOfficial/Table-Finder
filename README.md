@@ -1,6 +1,6 @@
 # Table Finder
 
-Table Finder scans your Steam library and shows only the games supported by Sintrix.net. Click on a game to view its latest table version, description, and download button. Includes update checks, themes, and allows setting custom Steam directories in the settings.
+Table Finder scans your Steam library and shows only the games supported by https://sintrix.net. Click on a game to view its latest table version, description, and download button. Includes update checks, themes, and allows setting custom Steam directories in the settings.
 
 ## Features
 

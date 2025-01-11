@@ -4,7 +4,7 @@ Table Finder scans your Steam library and shows only the games supported by http
 
 ## Features
 
-- **Game Scanning**: Automatically checks your installed Steam games and matches them with supported titles from Sintrix.net.
+- **Game Scanning**: Automatically checks your installed Steam games and matches them with supported titles from https://sintrix.net.
 - **Details Page**: Click on a game to view the latest table version, description, and download button.
 - **Themes**: Customize the app’s appearance with different themes.
 - **Custom Steam Directories**: Set your own Steam directories in the settings.
